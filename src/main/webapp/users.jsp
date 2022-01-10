@@ -136,7 +136,7 @@
 											<span aria-hidden="true">×</span>
 										</button>
 									</div>
-									<div class="modal-body">Select "Save" below if you are ready to save current user.
+									<div class="modal-body">Select "Save" below if you are ready to save current user. 
 										<form id="editUserForm" method="POST" action="${pageContext.request.contextPath}/api/v1/users/update">
 											<input type="text" class="d-none" id="userId" name="userId">
 											<div class="form-group">
@@ -172,7 +172,7 @@
 											<span aria-hidden="true">×</span>
 										</button>
 									</div>
-									<div class="modal-body">Select "Delete" below if you are ready to delete current user.
+									<div class="modal-body">Select "Delete" below if you are ready to delete current user and all songs by this user.
 										<form id="deleteUserForm" method="POST" action="${pageContext.request.contextPath}/api/v1/users/delete">
 											<input type="text" class="d-none" id="userId" name="userId">
 											<div class="form-group text-center pt-2">
