@@ -31,10 +31,13 @@ O YouSong permite que o usuário possa criar uma conta, e após o login, o usuá
 
 Além de possuir a configuração local instalada com Eclipse, Apache Tomcat e Java, você precisará do MySQL para criar a estrutura inicial do banco de dados, o script de criação do banco e das tabelas necessárias pode ser encontrado [aqui](script-mysql/script-mysql.sql).
 
+## Apresentação
+
+Assista a apresentação do projeto [aqui](https://drive.google.com/file/d/1XRk7M_TIXdEMTwWoB3_4nFJ1wSzsLGIY/view?usp=sharing).
+
 ## P.S.
 
 A API pública do Deezer disponibiliza apenas aúdios de 30s e não a música completa, caso estranhe 😄.
-
 
 ## 🤝 Colaboradores
 
@@ -54,7 +57,6 @@ A API pública do Deezer disponibiliza apenas aúdios de 30s e não a música co
     </td>
   </tr>
 </table>
-
 
 #### Obrigado por chegar até aqui! ❤️ <br>
 
